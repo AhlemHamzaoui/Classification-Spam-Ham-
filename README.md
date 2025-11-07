@@ -1,4 +1,5 @@
 # 📧 Spam Classifier using NLP & Naive Bayes
+Encadré par : Mme Tasmine Hamdeni 
 
 Ce projet consiste à construire un modèle de classification permettant de distinguer les **messages spam** des **messages légitimes (ham)**.  
 Il repose sur des techniques de **Traitement Automatique du Langage (NLP)** et sur un modèle **Naive Bayes Multinomial**, particulièrement adapté aux données textuelles.
@@ -62,7 +63,7 @@ Les étapes de nettoyage appliquées :
 
 ---
 
-## 📂 Structure du projet
+
 
 
 ---
@@ -74,12 +75,9 @@ Il peut être facilement intégré dans :
 - des systèmes de filtrage d'emails
 - des robots de communication
 
----
 
-## 🔮 Améliorations possibles
-- Test avec **SVM**, **Logistic Regression** ou **BERT embeddings**
-- Déploiement via API (Flask / FastAPI)
-- Interface utilisateur web
+
+
 
 ---
 
@@ -87,4 +85,5 @@ Il peut être facilement intégré dans :
 **Ahlem Hamzaoui**  
 Étudiantes en Data Science & IA  
 2024 - 2025
+
 
