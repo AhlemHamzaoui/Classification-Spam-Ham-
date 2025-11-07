@@ -81,7 +81,7 @@ Il peut être facilement intégré dans :
 
 ---
 
-## 👩‍💻 Auteur(e)
+## 👩‍💻 Auteure
 **Ahlem Hamzaoui**  
 Étudiantes en Data Science & IA  
 2024 - 2025
